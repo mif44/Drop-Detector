@@ -11,8 +11,6 @@ wheels/
 venv/
 __pycache__/
 
-data/
+data/raw/
 
 bin/
-models/
-*.pkl

@@ -33,6 +33,14 @@ to identify high-energy moments commonly found in:
 
 ---
 
+### System Requirements
+For audio processing to work, you must have **FFmpeg** installed on your system.
+* **Windows:** `winget install ffmpeg` (or download from official site)
+* **macOS:** `brew install ffmpeg`
+* **Linux:** `sudo apt install ffmpeg`
+
+---
+
 # ✨ Features
 
 - ✅ Automatic drop detection
